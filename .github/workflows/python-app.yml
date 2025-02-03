@@ -44,5 +44,5 @@ jobs:
 
     - name: Run tests for add.py and sub.py with pytest
       run: |
-        pytest test_add.py
-        pytest test_sub.py
+        python test_add.py
+        python test_sub.py
