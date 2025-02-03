@@ -38,4 +38,3 @@ jobs:
       run: |
         pytest
           python add.py
-          python sub.py
